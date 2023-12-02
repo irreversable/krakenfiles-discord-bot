@@ -7,4 +7,4 @@
 
 - ## You're All Set!
 
-credit to [tha23rd](https://github.com/tha23rd/py-kraken) for the krakenfiles_module.
+credit to [dufve](https://github.com/dufve/krakenpy) for the krakenfiles_module.
