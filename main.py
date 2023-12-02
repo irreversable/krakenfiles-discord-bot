@@ -18,7 +18,7 @@ async def kraken(ctx, url: str):
             title='Successfully Retrieved Your File!'
         )
         embed.set_author(name=str(ctx.author), icon_url=ctx.author.avatar.url)
-        embed.set_footer(text="tha23rd", icon_url="https://avatars.githubusercontent.com/u/54587508?v=4")
+        embed.set_footer(text="dufve", icon_url="https://avatars.githubusercontent.com/u/109483942?v=4")
         file_path = download_from_krakenfiles(url)
         await ctx.reply(embed=embed, file=discord.File(file_path))
 
